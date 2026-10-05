@@ -1,5 +1,4 @@
 # Ilham Bintang-Kelompok-16
-Laprak Modul 4 Kelompok 16
 STOK_KRITIS = 10
 
 
